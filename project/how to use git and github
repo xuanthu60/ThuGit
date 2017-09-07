@@ -1,0 +1,35 @@
+- To begin, open up a terminal and move to where you want to place the project on your local machine using the cd (change directory) command.
+	cd ~/myproject
+
+- To initialize a git repository in the root of the folder:
+	git init
+
+- (added or modified files in a folder containing a git repo)
+
+- use the git status command to see which files git knows exist:
+	git status
+
+- To add a file to a commit, you first need to add it to the staging environment:
+	git add
+
+- (git status)
+
+- Create a commit:
+	git commit -m "Your message about the commit"
+
+- Create a new branch:
+	git checkout -b <my branch name>
+
+- confirm that your branch was created:
+	git branch
+
+- push an existing repository from the command line:
+	git remote add origin https://github.com/cubeton/mynewrepository.git
+	git push -u origin master
+
+- Push a branch to GitHub:
+	git push origin yourbranchname
+
+
+
+- 
