@@ -23,13 +23,12 @@
 - confirm that your branch was created:
 	git branch
 
-- push an existing repository from the command line:
+- (push an existing repository from the command line:
 	git remote add origin https://github.com/cubeton/mynewrepository.git
-	git push -u origin master
+	git push -u origin master)
 
 - Push a branch to GitHub:
 	git push origin yourbranchname
 
-
-
-- 
+- Create a Pull Request (PR) and Merge a PR to merge your changes into the master branch. 
+(do it in github).
