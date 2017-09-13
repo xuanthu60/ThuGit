@@ -32,3 +32,6 @@
 
 - Create a Pull Request (PR) and Merge a PR to merge your changes into the master branch. 
 (do it in github).
+
+- Clone project from github to your computer:
+	git clone https://github.com/cubeton/git101.git
